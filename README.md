@@ -79,7 +79,6 @@ The project includes visualizations showing:
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 
 ## How to Run
 
